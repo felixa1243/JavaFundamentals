@@ -7,5 +7,9 @@ public class Member {
              {"Milla","0298123"},
              {"Roberto","12134"}
      };
+
+        for(var number: Members){
+            System.out.printf("Name:"+number[0]);
+        }
     }
 }
