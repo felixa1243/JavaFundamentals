@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="186ca6d5-9496-436c-8e26-9c0313800ad7" name="Changes" comment="+ comsume Member array">
+    <list default="true" id="186ca6d5-9496-436c-8e26-9c0313800ad7" name="Changes" comment="~ small change on Member and WordCount&#10;~ change on workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day3/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day3/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/user/project/leetcode/fundamental/src/com/enigmacamp/fundamental&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -57,9 +55,9 @@
       <recent name="$PROJECT_DIR$/src/com/enigmacamp/fundamental" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordCount">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.fundamental.day2.Array" />
+  <component name="RunManager" selected="Application.Member">
+    <configuration name="Irisan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.fundamental.day2.Irisan" />
       <module name="fundamental" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Irisan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.fundamental.day2.Irisan" />
+    <configuration name="Member" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.fundamental.day3.Member" />
       <module name="fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.enigmacamp.fundamental.day2.*" />
+          <option name="PATTERN" value="com.enigmacamp.fundamental.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Member" />
         <item itemvalue="Application.WordCount" />
         <item itemvalue="Application.Method" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Irisan" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +147,56 @@
       <option name="project" value="LOCAL" />
       <updated>1667449981586</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="~ change on Factor&#10;~ change on GanjilGenap&#10;+ add Irisan&#10;~ change on Login&#10;~ change on Looping&#10;+ add Method&#10;+ add Multiply&#10;+ add README&#10;+ add Sorting">
+      <created>1667531984580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667531984580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+ add Member">
+      <created>1667532676385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667532676385</updated>
+    </task>
+    <task id="LOCAL-00004" summary="+ add Member">
+      <created>1667532699331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667532699332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="+ comsume Member array">
+      <created>1667532848626</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667532848626</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+Add HelloEnigma">
+      <created>1667533467693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667533467693</updated>
+    </task>
+    <task id="LOCAL-00007" summary="+Added looping for">
+      <created>1667533543807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667533543807</updated>
+    </task>
+    <task id="LOCAL-00008" summary="~ small change on Member and WordCount&#10;~ change on workspace.xml">
+      <created>1667533610116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667533610116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,7 +213,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="~ change on Factor&#10;~ change on GanjilGenap&#10;+ add Irisan&#10;~ change on Login&#10;~ change on Looping&#10;+ add Method&#10;+ add Multiply&#10;+ add README&#10;+ add Sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="~ change on Factor&#10;~ change on GanjilGenap&#10;+ add Irisan&#10;~ change on Login&#10;~ change on Looping&#10;+ add Method&#10;+ add Multiply&#10;+ add README&#10;+ add Sorting" />
+    <MESSAGE value="+ add Member" />
+    <MESSAGE value="+ comsume Member array" />
+    <MESSAGE value="+Add HelloEnigma" />
+    <MESSAGE value="+Added looping for" />
+    <MESSAGE value="~ small change on Member and WordCount&#10;~ change on workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="~ small change on Member and WordCount&#10;~ change on workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
