@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="186ca6d5-9496-436c-8e26-9c0313800ad7" name="Changes" comment="~ change on Factor&#10;~ change on GanjilGenap&#10;+ add Irisan&#10;~ change on Login&#10;~ change on Looping&#10;+ add Method&#10;+ add Multiply&#10;+ add README&#10;+ add Sorting">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Irisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/WordCount.java" afterDir="false" />
+    <list default="true" id="186ca6d5-9496-436c-8e26-9c0313800ad7" name="Changes" comment="+ comsume Member array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/GanjilGenap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/GanjilGenap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Looping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/Looping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/StarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/StarPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day2/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day3/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigmacamp/fundamental/day3/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
