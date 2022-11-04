@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="186ca6d5-9496-436c-8e26-9c0313800ad7" name="Changes" comment="~ small change on Member and WordCount&#10;~ change on workspace.xml">
+    <list default="true" id="186ca6d5-9496-436c-8e26-9c0313800ad7" name="Changes" comment="-exclude .idea and java-fundamental.iml in .gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667533610116</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-exclude .idea and java-fundamental.iml in .gitignore">
+      <created>1667534319442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667534319442</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +225,8 @@
     <MESSAGE value="+Add HelloEnigma" />
     <MESSAGE value="+Added looping for" />
     <MESSAGE value="~ small change on Member and WordCount&#10;~ change on workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="~ small change on Member and WordCount&#10;~ change on workspace.xml" />
+    <MESSAGE value="-exclude .idea and java-fundamental.iml in .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="-exclude .idea and java-fundamental.iml in .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
