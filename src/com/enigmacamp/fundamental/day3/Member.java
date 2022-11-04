@@ -6,6 +6,6 @@ public class Member {
              {"Jack","1234124"},
              {"Milla","0298123"},
              {"Roberto","12134"}
-     }
+     };
     }
 }
